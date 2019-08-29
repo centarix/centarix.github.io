@@ -1,0 +1,11 @@
+# General Jekyll Config
+highlighter: rogue
+name: Centarix Tech Site
+description: N/A
+url: "http://centarix.github.io/"
+lsi: false
+
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+#Build Settings
+permalink: pretty
